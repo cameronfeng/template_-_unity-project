@@ -20,7 +20,7 @@ using UnityEngine.Assertions;
     // Class
     // ====================================================================================================
 
-    public class #SCRIPTNAME# : MonoBehaviour
+    internal class #SCRIPTNAME# : MonoBehaviour
     {
 
         // ====================================================================================================
